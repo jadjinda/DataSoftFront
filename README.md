@@ -1,16 +1,18 @@
 # DataSoftFront
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
+Ce projet a été généré avec [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
 
-## Development server
+## Configuration du projet
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1 - Télécharger le projet sur github ou cloner le repository
+2 - Dézipepr le projet télécharger et ouvrez-le avec le navigateur de votre choix
+2 - A la racine du projet dans votre terminal lancer la commande `npm start` cette commande se chargera d'installer tout ce qu'il faut dans votre projet
 
-## Code scaffolding
+## Lancer l'application
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Lancer `ng serve` dans la racine de votre ce projet. Le projet est accessible via ce lien : `http://localhost:4200/`. L'application se rechargera automatiquement si vous modifiez l'un des fichiers source.
 
-## Build
+## Pour Builder le projet
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
@@ -22,6 +24,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Quelques captures :
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
