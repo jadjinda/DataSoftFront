@@ -26,4 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Quelques captures :
 
+Page de connexion
+![plot](src/assets/captures/img.png)
 
+Page d'acceuil
+![plot](src/assets/captures/img_1.png)
+
+Page d'ajout de Catégorie
+![plot](src/assets/captures/img_2.png)
+
+Page d'ajout de Produit
+![plot](src/assets/captures/img_3.png)
